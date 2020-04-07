@@ -1,5 +1,5 @@
-# TEST 2017
-Test 2017's documents!
+# 2017 SAMPLE TEST
+2017 sample test!
 
 ## Copyright
 Copyright (c) Skool +.
