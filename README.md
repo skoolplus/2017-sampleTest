@@ -5,4 +5,4 @@
 ## License
 Copyright &copy; **SkoolPlus**. All rights reserved.
 
-Licensed under the [CC0](LICENSE) license.
+Licensed under the [CC0-1.0](LICENSE) license.
